@@ -6,5 +6,6 @@ package com.tecsup.edu.lab02;
 public class App {
     public static void main(String[] args) {
         System.out.println("Salud gars!");
+        System.out.println("hola");
     }
 }
